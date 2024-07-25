@@ -123,7 +123,7 @@ M365 Sizing information has been written to /home/Rubrik-M365-Sizing-2024-03-07.
 
 ## Example Output
 
-![image](https://user-images.githubusercontent.com/51362633/190453033-94379a84-8678-4592-9d9b-2b1dad96a521.png)
+![image](https://github.com/Martin-bechtle/microsoft-365-sizing/blob/main/190453033-94379a84-8678-4592-9d9b-2b1dad96a521.png)
 
 
 
