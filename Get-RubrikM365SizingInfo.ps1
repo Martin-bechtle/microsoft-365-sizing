@@ -1535,10 +1535,10 @@ $HTML_CODE = @"
                 <thead>
                     <tr>
                         <th>Year 1 @ 10% Growth</th>
-                        <th>Starter (5GB)</th>
-                        <th>Foundation (20GB)</th>
-                        <th>Business (50GB)</th>
-                        <th>Enterprise (Unlimited)</th>
+                        <th>5GB</th>
+                        <th>20GB</th>
+                        <th>50GB</th>
+                        <th>Unlimited</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -1553,10 +1553,10 @@ $HTML_CODE = @"
                 <thead>
                     <tr>
                         <th>Year 1 @ 20% Growth</th>
-                        <th>Starter (5GB)</th>
-                        <th>Foundation (20GB)</th>
-                        <th>Business (50GB)</th>
-                        <th>Enterprise (Unlimited)</th>
+                        <th>5GB</th>
+                        <th>20GB</th>
+                        <th>50GB</th>
+                        <th>Unlimited</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -1571,10 +1571,10 @@ $HTML_CODE = @"
                 <thead>
                     <tr>
                         <th>Year 1 @ $AnnualGrowth% Growth</th>
-                        <th>Starter (5GB)</th>
-                        <th>Foundation (20GB)</th>
-                        <th>Business (50GB)</th>
-                        <th>Enterprise (Unlimited)</th>
+                        <th>5GB</th>
+                        <th>20GB</th>
+                        <th>50GB</th>
+                        <th>Unlimited</th>
                     </tr>
                 </thead>
                 <tbody>
